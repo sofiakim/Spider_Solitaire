@@ -11,7 +11,7 @@ import java.util.ArrayList;
  * change any of this code, however, you may want to uncomment the code in the
  * draw to show the rectangle area of the Hand when debugging your code
  * 
- * @author Ridout
+ * @author Sofia Kim
  * @version April 2013
  */
 public class Hand extends Rectangle
