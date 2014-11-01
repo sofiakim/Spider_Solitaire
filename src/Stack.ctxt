@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Stack(int,\ int)
+comment1.params=card
+comment1.target=void\ addCard(Card)
+comment2.params=index
+comment2.target=Card\ remove(int)
+comment3.params=point
+comment3.target=boolean\ canPickUp(java.awt.Point)
+comment4.params=point
+comment4.target=Movable\ pickUp(java.awt.Point)
+comment5.params=
+comment5.target=boolean\ removeFullSequence()
+comment6.params=stack
+comment6.target=boolean\ canPlaceOnStack(Stack)
+comment7.params=stack
+comment7.target=void\ placeOnStack(Stack)
+numComments=8

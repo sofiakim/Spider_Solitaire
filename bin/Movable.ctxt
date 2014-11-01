@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=initialPos\ finalPos
+comment0.target=void\ drag(java.awt.Point,\ java.awt.Point)
+comment0.text=\r\n\ Translates\ this\ Movable\ object\ by\ the\ difference\ between\ the\ given\r\n\ initial\ and\ final\ positions.\ Used\ to\ move\ an\ Object\ when\ dragging\ it\r\n\ given\ the\ initial\ and\ final\ mouse\ positions\ during\ the\ drag.\r\n\ \r\n\ @param\ initialPos\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ initial\ position\r\n\ @param\ finalPos\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ final\ position\r\n
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics)
+comment1.text=\r\n\ Draws\ this\ Object\ in\ its\ current\ position\ in\ the\ given\ Graphics\ context\r\n\ \r\n\ @param\ g\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ Graphics\ context\ to\ draw\ the\ Hand\ in\r\n
+comment2.params=other
+comment2.target=boolean\ intersects(java.awt.Rectangle)
+comment2.text=\r\n\ Checks\ to\ see\ if\ this\ object\ intersects\ the\ given\ Rectangle\ object\r\n\ \r\n\ @param\ other\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ Rectangle\ object\ to\ check\ to\ see\ if\ it\ intersects\ with\r\n\ \ \ \ \ \ \ \ \ \ \ \ this\ object\r\n\ @return\ true\ if\ the\ objects\ overlap,\ false\ if\ not\r\n
+comment3.params=stack
+comment3.target=boolean\ canPlaceOnStack(Stack)
+comment3.text=\r\n\ Checks\ to\ see\ if\ you\ can\ legally\ place\ this\ object\ on\ the\ given\ Stack\r\n\ \r\n\ @param\ stack\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ Stack\ that\ you\ want\ to\ try\ to\ place\ this\ object\ on\r\n\ @return\ true\ if\ it\ can\ be\ legally\ placed,\ false\ if\ not\r\n
+comment4.params=stack
+comment4.target=void\ placeOnStack(Stack)
+comment4.text=\r\n\ Places\ this\ object\ on\ top\ of\ the\ given\ Stack\r\n\ \r\n\ @param\ stack\r\n\ \ \ \ \ \ \ \ \ \ \ \ the\ Stack\ to\ place\ this\ object\ on\r\n
+numComments=5

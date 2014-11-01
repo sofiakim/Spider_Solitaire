@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=rank\ suit
+comment0.target=Card(int,\ int)
+comment1.params=card
+comment1.target=boolean\ isSameSuit(Card)
+comment2.params=
+comment2.target=boolean\ isFaceUp()
+comment3.params=
+comment3.target=void\ flip()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment5.text=\r\n\ Draws\ a\ card\ in\ a\ Graphics\ context\r\n\ \r\n\ @param\ g\r\n\ \ \ \ \ \ \ \ \ \ \ \ Graphics\ to\ draw\ the\ card\ in\r\n
+comment6.params=card
+comment6.target=boolean\ canPlace(Card)
+comment7.params=initialPos\ finalPos
+comment7.target=void\ drag(java.awt.Point,\ java.awt.Point)
+comment8.params=stack
+comment8.target=boolean\ canPlaceOnStack(Stack)
+comment9.params=stack
+comment9.target=void\ placeOnStack(Stack)
+numComments=10
